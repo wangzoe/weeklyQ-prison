@@ -1,6 +1,6 @@
 # weeklyQ-prison
 
-analyze 3 different choice's expectation/n
+analyze 3 different choice's expectation'/n'
 expectation_of_certen_type('nice', 5, 300)/n
 (13.426666666666666, 2.8933333333333335, 25, 5, 16.32)/n
 expectation_of_certen_type('rat', 5, 300)
